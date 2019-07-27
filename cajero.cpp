@@ -261,7 +261,6 @@ main() {
 					:v
 					
 						if (rutlogin==admin){
-							printf("\t\t\t    Notificaciones: Se van a sacar un 7 los cabrones! Gracias al Semidios JaviertINC\n");	
 							if(deprutnotify==rutlogin){
 								if(depalert1=1){
 									printf("\t\t\t\tNotificaciones: Tienes un deposito de: $%f. De la cuenta: %d\n",depnotify,deprut);
